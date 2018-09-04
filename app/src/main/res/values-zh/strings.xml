@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">精灵助手</string>
+    <string name="accessibility_social_contact_description">指令引导服务</string>
+    <string name="label_for_wechat_bottom_contacts">通讯录</string>
+</resources>
